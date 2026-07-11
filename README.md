@@ -1,4 +1,4 @@
-# timofieieva_nosql_1 — Spotify Tracks у MongoDB
+# timofieieva_nosql_1
 
 Датасет: [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) (114 000 треків), MongoDB Atlas, база `spotify`.
 
